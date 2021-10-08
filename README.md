@@ -1,5 +1,7 @@
 # group-2
-Group Name: [AllSchool](https://allschool.dev/)
+Group Name: [AllSchool (live site)](https://allschool.dev/)
+
+![demo](https://github.com/larrylp2/allschool-cs196project/blob/master/static/demo.gif)
 
 Team Members: jlee672, ecbrown2, larrylp2, mmaajed2, mylestm2, jacobah3
 
